@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-
+# Deployment - react-pizza-anvarnurullin.vercel.app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
