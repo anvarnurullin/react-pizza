@@ -13,7 +13,6 @@ const Footer: React.FC = () => {
             <FaTelegram size="2em" />
           </a>
           <a href="mailto: anvar.nurullin@yandex.ru">
-            {/* <FontAwesomeIcon icon="fa-solid fa-envelope" size="2x" /> */}
             <FaEnvelope size="2em" />
           </a>
           <a href="https://www.github.com/anvarnurullin">
